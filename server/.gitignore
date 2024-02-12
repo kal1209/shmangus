@@ -1,0 +1,35 @@
+# Node.js / Express.js
+node_modules/
+
+# Logs
+logs
+*.log
+
+# Dependency directories
+.pnpm-store
+.pnpm-workspace
+yarn-error.log
+
+# dotenv environment file
+.env
+
+# Mac OS
+.DS_Store
+
+# Visual Studio Code settings
+.vscode/
+
+# Editor-specific files
+*.sublime-project
+*.sublime-workspace
+*.idea/
+.project
+.nb-*
+*sublime*
+
+# Logs
+logs
+*.log
+
+# Optional npm package manager cache directory
+.npm
